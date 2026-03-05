@@ -14,7 +14,7 @@ st.set_page_config(page_title="Moloko Mokgehle - Portfolio", page_icon="📊", l
 # --- HEADER SECTION ---
 st.title("Moloko Mokgehle")
 st.write("📍 Cape Town, South Africa")
-st.write("📞 +27 69 495 9634| 📧 moloko.mokgehle02@gmail.com | 🔗 [LinkedIn](https://linkedin.com)")
+st.write("📞 +27 69 495 9634| 📧 moloko.mokgehle02@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/moloko-mokgehle)")
 st.write("---")
 
 # --- SIDEBAR SKILLS ---

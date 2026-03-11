@@ -15,6 +15,16 @@ st.set_page_config(page_title="Moloko Mokgehle - Portfolio", page_icon="📊", l
 st.title("Moloko Mokgehle")
 st.write("📍 Cape Town, South Africa")
 st.write("📞 +27 69 495 9634| 📧 moloko.mokgehle02@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/moloko-mokgehle)")
+github_url = "https://github.com/Moloko-Mokgehle"
+st.markdown(
+    f"""
+    <a href="{github_url}" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+        width="30" height="30">
+    </a>
+    """,
+    unsafe_allow_html=True
+)
 st.write("---")
 
 # --- SIDEBAR SKILLS ---

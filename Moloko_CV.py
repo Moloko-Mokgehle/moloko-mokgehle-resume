@@ -83,7 +83,7 @@ b01, b02, b03 = st.columns(3)
 
 with b02:
     try:
-        with open("MokgehleMGK___Data_Analyst.pdf", "rb") as pdf_file:
+        with open("MokgehleMGK_CV.pdf", "rb") as pdf_file:
             PDFbyte = pdf_file.read()
     
         st.download_button(
